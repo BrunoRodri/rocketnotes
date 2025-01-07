@@ -13,7 +13,7 @@ export const Container = styled.div`
   border-radius: 10px;
   padding-right: 16px;
 
-  > button {
+  > button { 
     border: none;
     background: none;
   }
